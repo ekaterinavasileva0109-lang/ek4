@@ -1,0 +1,7 @@
+C:\вижуха\тема2\тема2\obj\Debug\тема2.csproj.AssemblyReference.cache
+C:\вижуха\тема2\тема2\obj\Debug\тема2.csproj.CoreCompileInputs.cache
+C:\вижуха\тема2\тема2\bin\Debug\тема2.exe.config
+C:\вижуха\тема2\тема2\bin\Debug\тема2.exe
+C:\вижуха\тема2\тема2\bin\Debug\тема2.pdb
+C:\вижуха\тема2\тема2\obj\Debug\тема2.exe
+C:\вижуха\тема2\тема2\obj\Debug\тема2.pdb
