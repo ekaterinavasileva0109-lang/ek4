@@ -1,0 +1,12 @@
+C:\вижуха\myLibrary\myLibrary\bin\Debug\net10.0\myLibrary.deps.json
+C:\вижуха\myLibrary\myLibrary\bin\Debug\net10.0\myLibrary.dll
+C:\вижуха\myLibrary\myLibrary\bin\Debug\net10.0\myLibrary.pdb
+C:\вижуха\myLibrary\myLibrary\obj\Debug\net10.0\myLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\вижуха\myLibrary\myLibrary\obj\Debug\net10.0\myLibrary.AssemblyInfoInputs.cache
+C:\вижуха\myLibrary\myLibrary\obj\Debug\net10.0\myLibrary.AssemblyInfo.cs
+C:\вижуха\myLibrary\myLibrary\obj\Debug\net10.0\myLibrary.csproj.CoreCompileInputs.cache
+C:\вижуха\myLibrary\myLibrary\obj\Debug\net10.0\myLibrary.dll
+C:\вижуха\myLibrary\myLibrary\obj\Debug\net10.0\refint\myLibrary.dll
+C:\вижуха\myLibrary\myLibrary\obj\Debug\net10.0\myLibrary.pdb
+C:\вижуха\myLibrary\myLibrary\obj\Debug\net10.0\ref\myLibrary.dll
+C:\вижуха\myLibrary\myLibrary\obj\Debug\net10.0\myLibrary.csproj.Up2Date
