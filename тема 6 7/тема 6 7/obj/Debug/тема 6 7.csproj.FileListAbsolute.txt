@@ -1,0 +1,7 @@
+C:\вижуха\тема 6 7\тема 6 7\bin\Debug\тема 6 7.exe.config
+C:\вижуха\тема 6 7\тема 6 7\bin\Debug\тема 6 7.exe
+C:\вижуха\тема 6 7\тема 6 7\bin\Debug\тема 6 7.pdb
+C:\вижуха\тема 6 7\тема 6 7\obj\Debug\тема 6 7.csproj.AssemblyReference.cache
+C:\вижуха\тема 6 7\тема 6 7\obj\Debug\тема 6 7.csproj.CoreCompileInputs.cache
+C:\вижуха\тема 6 7\тема 6 7\obj\Debug\тема 6 7.exe
+C:\вижуха\тема 6 7\тема 6 7\obj\Debug\тема 6 7.pdb
